@@ -1,0 +1,27 @@
+.valorRed{
+				color: red;
+}
+.valorText{
+				text-decoration: line-through;
+}
+
+.promocao{
+				padding: 5px 15px;
+				border-radius: 5px;
+				width: 200px;
+				background: red;
+				color: white;
+				
+}
+
+.esgotado{
+				padding: 5px 15px;
+				border:1px solid black;
+				border-radius: 5px;
+				width: 200px;
+}
+
+img {
+	width: 300;
+	height: 300;
+}
